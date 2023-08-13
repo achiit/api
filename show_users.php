@@ -1,8 +1,8 @@
 <?php
 // Establish database connection
-$servername = "localhost";
-$username = "root";
-$password = "123456789";
+$servername = "achintyatest.database.windows.net";
+$username = "achintya";
+$password = "Jaishreeram@123";
 $dbname = "formtest";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
